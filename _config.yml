@@ -11,16 +11,16 @@
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
-remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+#remote_theme             : "mmistakes/minimal-mistakes@4.19.2"
+minimal_mistakes_skin    : "mint" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Welcome TO Allens Portfolio"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+title                    : "Welcome To Allens Portfolio"
+title_separator          : "|"
+subtitle                 : "Lets see what this looks like"  # site tagline that appears below site title in masthead
 name                     : "Allen Joshey"
-description              : "Portfolio websit of Allen."
+description              : "Portfolio website of Allen."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -41,7 +41,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "light" (default), "dark"
   utterances:
-# theme                : # "github-light" (default), "github-dark"
+    theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
     branch               : # "master"
@@ -94,10 +94,11 @@ analytics:
 # Site Author
 author:
   name             : "Allen Joshey"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/DP.jpeg"
   bio              : "Well put some info about me here soon"
   location         : "Bangalore"
-  email            : allenjoshey1995@gmail.com
+  email            : "allenjoshey1995@gmail.com"
+  linkedin         : "/in/allen-joshey-b19a22123"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -107,7 +108,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
+      # url: "https://www.linkedin.com/in/allen-joshey-b19a22123/"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"

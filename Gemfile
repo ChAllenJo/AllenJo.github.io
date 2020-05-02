@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-
-gem "github-pages", group: :jekyll_plugins
+gem 'jekyll-include-cache'
+gem "github-pages","204",group: :jekyll_plugins
 #source "https://rubygems.org"
 #gemspec

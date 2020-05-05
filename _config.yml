@@ -98,7 +98,8 @@ author:
   bio              : "Well put some info about me here soon"
   location         : "Bangalore"
   email            : "allenjoshey1995@gmail.com"
-  linkedin         : "/in/allen-joshey-b19a22123"
+  linkedin         : "allenjoshey"
+  github           : "ChAllenJo"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

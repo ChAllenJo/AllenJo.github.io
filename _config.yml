@@ -94,7 +94,7 @@ analytics:
 
 author:
   name             : "Allen Joshey"
-  avatar           :  "/images/ring.png" #"/images/allen.JPG"
+  avatar           : "/images/allen.JPG"
   bio              : "A passionate Roboticist"
   location         : "Bangalore"
   #email           : "allenjoshey1995@gmail.com"

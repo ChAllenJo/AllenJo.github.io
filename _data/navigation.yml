@@ -10,7 +10,7 @@ main:
     description: "Talks all about Allen"
   - title: "Portfolio"
     url: /portfolio/ 
-    description: "MY workex"
+    description: "My proffessional portfolio"
 
    
   #- title: "404"

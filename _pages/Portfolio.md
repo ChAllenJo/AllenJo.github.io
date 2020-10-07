@@ -7,5 +7,5 @@ entries_layout: grid
 classes: wide
 ---
 
-# Find below things ive worked on
+# My Work as a Proffessional
 

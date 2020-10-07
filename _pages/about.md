@@ -1,6 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-header:
-   
+image:
+  background: "/images/cbot.png"
 ---
